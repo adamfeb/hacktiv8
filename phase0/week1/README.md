@@ -26,7 +26,7 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 - [Group Work - Startup Landing Page](https://adamfeb.github.io/hacktiv8/phase0/week1/hacktivrent/index.html)
 - [Latihan 4 - Markdown & README](https://adamfeb.github.io/hacktiv8/phase0/week1/latihan3/index.html)
 - [Latihan 5 - New Branch](https://adamfeb.github.io/hacktiv8/phase0/week1/latihan3/index.html)	
-- [My First Website - Portofolio](https://adamfeb.github.io/hacktiv8/phase0/week1/hacktivrent/index.html)
+- [My First Website - Portofolio](https://adamfeb.github.io/hacktiv8/phase0/week1/portofolio/index.html)
 
 
 ## First Day Story
