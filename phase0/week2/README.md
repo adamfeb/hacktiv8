@@ -18,7 +18,7 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 
 ## Table of Contents
 
-- [Pseudocode](https://adamfeb.github.io/hacktiv8/phase0/week2/pseudocode/)
+- [Pseudocode](https://adamfeb.github.io/hacktiv8/phase0/week2/pseudocode/pseudocode.txt)
 - [CodeAcademy - JavaScript](https://adamfeb.github.io/hacktiv8/phase0/week2/codeacademy/week2day2-codeacademy-javascript-intro-controlflow.png)
 - [Conditional If-Else](#)
 - [Conditional Switch-Case](#)
