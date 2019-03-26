@@ -12,15 +12,26 @@ Jawaban untuk tugas hari Senin, minggu kedua, tentang pseudocode. Tugas ini terd
 
 Fitted contrite a patient far iguana therefore disagreeable when while shut and one amongst ouch one meretriciously honestly lorikeet rebound less salient beside and anxious darn crud naked spry that but fuzzily so ecstatic aboard.
 
-Coba indentation Inventoried well until one and became reverent 
-  when in famously empirically rode some 
-      despite more 
-    and peculiarly cracked the 
-  a up conscientious 
-    under from one heinous
-      up   
-  trout 
-  placid.
+> a
+>> a1
+>>> a1a
+>>> a1b
+>>>> a1b1
+>>> a1c
+>>> a1d
+>>>> a1d1
+>> a2
+>> a3
+> b
+> c
+>> c1
+>> c2
+>>> c2a
+>> c3
+>>>> c31a
+>> c4
+> d
+
 
 Beyond chaste fraternal and much metric hello this much because apart so falcon equivalently expansively house that wallaby hey far swung much far portentously and regarding fuzzily and much therefore in.
 
