@@ -1,4 +1,4 @@
-# Hacktiv8 - Phase 0
+# Phase 0 - Hacktiv8
 
 [![hacktiv8 compliant](https://img.shields.io/badge/phase0-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)
 

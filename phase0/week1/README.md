@@ -1,8 +1,8 @@
-# Hacktiv8 - Phase 0 - Week 1
+# Week 1 - Phase 0 - Hacktiv8
 
 [![hacktiv8 compliant](https://img.shields.io/badge/week1-hacktiv8-orange.svg?style=flat-square&logo=html5)](https://github.com/adamfeb)
 
-> Week 1 - Hacktiv8 Batch 31 Eager Fox 2019
+> Week 1 - Membuat Website Pertama Saya
 
 Ini adalah sebuah repository dimana saya, [@adamfeb](https://github.com/adamfeb) menyimpan seluruh data pekerjaan dan tugas selama saya menjalani minggu pertama Phase 0 di Hacktiv8.
 

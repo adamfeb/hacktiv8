@@ -1,8 +1,8 @@
-# Hacktiv8 - Phase 0 - Week 2
+# Week 2 - Phase 0 - Hacktiv8
 
 [![hacktiv8 compliant](https://img.shields.io/badge/week2-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)
 
-> Week 2 - Hacktiv8 Batch 31 Eager Fox 2019
+> Week 2 - Mengenal JavaScript
 
 Ini adalah sebuah repository dimana saya, [@adamfeb](https://github.com/adamfeb) menyimpan seluruh data pekerjaan dan tugas selama saya menjalani minggu kedua Phase 0 di Hacktiv8.
 
@@ -14,6 +14,7 @@ Repository ini berisi:
 
 Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajari dan kerjakan selama mengikuti On-Campus Full Stack Javascript Developer Immersive Program.
 
+<a href="https://hacktiv8.com/"><img src="https://hacktiv8.com/img/logo-hacktiv8_bordered.png"></a>
 
 ## Table of Contents
 
