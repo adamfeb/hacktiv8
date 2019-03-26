@@ -136,7 +136,6 @@ Hari pertama di Hacktiv8, seluruh peserta memperkenalkan diri dan menyampaikan l
   - [A reStructuredText Primer](https://getnikola.com/quickstart.html)
   - [Git Branches](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
   - [Git Branching - Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-
   - [GitHub Pages](https://pages.github.com/)
   - [Build a Web Portfolio from Scratch with GitHub Pages](https://dannguyen.github.io/github-for-portfolios)
   - [Publishing your website, BY Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website)
