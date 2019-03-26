@@ -1,6 +1,6 @@
 # Hacktiv8 - Phase 0 - Week 2
 
-[![hacktiv8-phase0 compliant](https://img.shields.io/badge/week2-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)
+[![hacktiv8 compliant](https://img.shields.io/badge/week2-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)
 
 > Week 2 - Hacktiv8 Batch 31 Eager Fox 2019
 
@@ -17,14 +17,14 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 
 ## Table of Contents
 
-- [Pseudocode](https://adamfeb.github.io/hacktiv8-phase0/week2/pseudocode/)
-- [CodeAcademy - JavaScript](https://adamfeb.github.io/hacktiv8-phase0/week2/codeacademy/week2day2-codeacademy-javascript-intro-controlflow.png)
+- [Pseudocode](https://adamfeb.github.io/hacktiv8/phase0/week2/pseudocode/)
+- [CodeAcademy - JavaScript](https://adamfeb.github.io/hacktiv8/phase0/week2/codeacademy/week2day2-codeacademy-javascript-intro-controlflow.png)
 - [Conditional If-Else](#)
 - [Conditional Switch-Case](#)
 - [Bermain dengan String](#)
 - [Berlatih Perulangan](#)
 - [Perulangan - Asterisk](#)
-- [CodeAcademy - Functions](https://adamfeb.github.io/hacktiv8-phase0/week2/codeacademy/week2day4-codeacademy-javascript-functions.png)
+- [CodeAcademy - Functions](https://adamfeb.github.io/hacktiv8/phase0/week2/codeacademy/week2day4-codeacademy-javascript-functions.png)
 - [Functions](#)
 - [Bandingkan Angka](#)
 - [Balik Kata](#)
@@ -73,7 +73,7 @@ Minggu pertama di On-Campus Full Stack Javascript Developer Immersive Program te
 
 ## Contributing
 
-Saya sangat terbuka dengan seluruh masukan, kritik, ide, atau apapun yang dapat membantu saya mengembangkan kemampuan. Anda dapat [Open an issue](https://github.com/adamfeb/hacktiv8-phase0/issues/new) untuk menyampaikan aspirasi anda.
+Saya sangat terbuka dengan seluruh masukan, kritik, ide, atau apapun yang dapat membantu saya mengembangkan kemampuan. Anda dapat [Open an issue](https://github.com/adamfeb/hacktiv8/issues/new) untuk menyampaikan aspirasi anda.
 
 Repository ini mengikuti Code of Conduct dari [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/).
 

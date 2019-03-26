@@ -1,6 +1,6 @@
 # Hacktiv8 - Phase 0 - Week 1
 
-[![hacktiv8-phase0 compliant](https://img.shields.io/badge/week1-hacktiv8-orange.svg?style=flat-square&logo=html5)](https://github.com/adamfeb)
+[![hacktiv8 compliant](https://img.shields.io/badge/week1-hacktiv8-orange.svg?style=flat-square&logo=html5)](https://github.com/adamfeb)
 
 > Week 1 - Hacktiv8 Batch 31 Eager Fox 2019
 
@@ -14,18 +14,19 @@ Repository ini berisi:
 
 Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajari dan kerjakan selama mengikuti On-Campus Full Stack Javascript Developer Immersive Program.
 
+<a href="https://hacktiv8.com/"><img src="https://hacktiv8.com/img/logo-hacktiv8_bordered.png"></a>
 
 ## Table of Contents
 
-- [CodeAcademy - HTML](https://adamfeb.github.io/hacktiv8-phase0/week1/codeacademy/week1day1-codeacademy-html.png)
-- [Latihan 1 - HTML](https://adamfeb.github.io/hacktiv8-phase0/week1/latihan1/index.html)
-- [CodeAcademy - CSS](https://adamfeb.github.io/hacktiv8-phase0/week1/codeacademy/week1day2-codeacademy-css.png)
-- [Latihan 2 - CSS](https://adamfeb.github.io/hacktiv8-phase0/week1/latihan2/index.html)
-- [Latihan 3 - CSS Layout](https://adamfeb.github.io/hacktiv8-phase0/week1/latihan3/index.html)
-- [Group Work - Startup Landing Page](https://adamfeb.github.io/hacktiv8-phase0/week1/hacktivrent/index.html)
-- [Latihan 4 - Markdown & README](https://adamfeb.github.io/hacktiv8-phase0/week1/latihan3/index.html)
-- [Latihan 5 - New Branch](https://adamfeb.github.io/hacktiv8-phase0/week1/latihan3/index.html)	
-- [My First Website - Portofolio](https://adamfeb.github.io/hacktiv8-phase0/week1/hacktivrent/index.html)
+- [CodeAcademy - HTML](https://adamfeb.github.io/hacktiv8/phase0/week1/codeacademy/week1day1-codeacademy-html.png)
+- [Latihan 1 - HTML](https://adamfeb.github.io/hacktiv8/phase0/week1/latihan1/index.html)
+- [CodeAcademy - CSS](https://adamfeb.github.io/hacktiv8/phase0/week1/codeacademy/week1day2-codeacademy-css.png)
+- [Latihan 2 - CSS](https://adamfeb.github.io/hacktiv8/phase0/week1/latihan2/index.html)
+- [Latihan 3 - CSS Layout](https://adamfeb.github.io/hacktiv8/phase0/week1/latihan3/index.html)
+- [Group Work - Startup Landing Page](https://adamfeb.github.io/hacktiv8/phase0/week1/hacktivrent/index.html)
+- [Latihan 4 - Markdown & README](https://adamfeb.github.io/hacktiv8/phase0/week1/latihan3/index.html)
+- [Latihan 5 - New Branch](https://adamfeb.github.io/hacktiv8/phase0/week1/latihan3/index.html)	
+- [My First Website - Portofolio](https://adamfeb.github.io/hacktiv8/phase0/week1/hacktivrent/index.html)
 
 
 ## First Day Story
@@ -168,7 +169,7 @@ Hari pertama di Hacktiv8, seluruh peserta memperkenalkan diri dan menyampaikan l
 
 ## Contributing
 
-Saya sangat terbuka dengan seluruh masukan, kritik, ide, atau apapun yang dapat membantu saya mengembangkan kemampuan. Anda dapat [Open an issue](https://github.com/adamfeb/hacktiv8-phase0/issues/new) untuk menyampaikan aspirasi anda.
+Saya sangat terbuka dengan seluruh masukan, kritik, ide, atau apapun yang dapat membantu saya mengembangkan kemampuan. Anda dapat [Open an issue](https://github.com/adamfeb/hacktiv8/issues/new) untuk menyampaikan aspirasi anda.
 
 Repository ini mengikuti Code of Conduct dari [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/).
 
