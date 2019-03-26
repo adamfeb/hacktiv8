@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>HacktivRent - Find the best Apartment in the city with a single click.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="./style.css">
+    <!-- font awesome -->  
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css" integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+    <!-- google font -->
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700,700i" rel="stylesheet">
+</head>
+<body>    
+
+    <!-- Header-->
+    <header id="header">
+        <div class="inner">
+            <a href="./index.html" class="logo">HacktivRent</a>
+            <nav id="nav">
+                <a href="#howitworks">How It Works</a>
+                <a href="#coveragearea">Coverage Area</a>
+                <a href="#pricing">Pricing</a>
+                <a href="#testimonials">Testimonials</a>
+                <a href="#blog">Blog</a>
+            </nav>
+        </div>
+    </header> 
+
+    <!-- Hero -->
+    <section id="hero">
+        <video src="./images/hero.mp4" autoplay muted loop>Browsernya ga support HTML5 video. Update dulu ya gan.</video>
+        <div class="inner">
+            <div id="heromockup">
+                <img src="./images/heromockup.png">
+            </div>
+            <div id="herodesc">
+                <div>
+                    <h1>APARTMENT, CONDO, KOST & MORE</h1>
+                    <p>Get the best prices on 2,000,000+ properties in Indonesia</p>
+                </div>
+                <br>
+                <div id="bookform">
+                    <form action="./index.html" method="POST">
+                        <div>
+                            <label for="destination">Enter a destination, city, or property name</label>
+                            <br>
+                            <input id="destination" name="destination" type="text" placeholder="Jakarta, Bandung, Surabaya, etc">
+                        </div>
+                        <br>
+                        <div>
+                            <label for="start">How long you want to stay</label>
+                            <br>
+                            <input type="text" name="programming" list="duration" placeholder="Starts from 6 Months up to 20 Years">
+                            <datalist id="duration">
+                                <select name="durationopt">
+                                    <option value"0.5">6 Bulan</option>
+                                    <option value"1">1 Tahun</option>
+                                    <option value"2">2 Tahun</option>
+                                    <option value"3">3 Tahun</option>
+                                    <option value"4">4 Tahun</option>
+                                    <option value"5">5 Tahun</option>
+                                    <option value"10">10 Tahun</option>
+                                    <option value"20">20 Tahun</option>
+                                </select>
+                            </datalist>
+                        </div>
+                        <br>
+                        <div>
+                            <label for="typeroom">Choose property type you love</label>
+                            <br>
+                            <div id="typeroomopt">
+                                <input id="apartment" type="checkbox" name="typeroom1" value="apartment">
+                                <label for="apartment">Apartment</label>
+                                <input id="condominium" type="checkbox" name="typeroom2" value="condominium">
+                                <label for="condominium">Condominium</label>
+                                <input id="kost"type="checkbox" name="typeroom3" value="kost">
+                                <label for="kost">Kost</label>
+                                <input id="others" type="checkbox" name="typeroom4" value="others">
+                                <label for="others">Others</label>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="formbutton">
+                            <input type="submit" value="Search">
+                        </div>
+                    </form>
+                </div>
+                <div id="herodownload">
+                    <h3>HacktivRent</h3>
+                    <p>Find the best Apartment in the city with a single click.</p>
+                    <br>
+                    <object data="./images/appstore.svg" type="image/svg+xml">
+                        <img src="./images/appstore.png">
+                    </object>
+                    <object data="./images/playstore.svg" type="image/svg+xml">
+                        <img src="./images/playstore.png">
+                    </object>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Coverage Area-->
+    <section id="coveragearea">
+        <div class="sechead">
+            <h1>Coverage Area</h1>
+            <p>Find millions of houses and apartments for rent in your favorite cities!</p>
+        </div>
+        <div class="inner">
+            <div class="covercol" id="bali">
+                <a href="#"><p>Bali</p></a>
+            </div>
+            <div class="covercol" id="jakarta">
+                <a href="#"><p>Jakarta</p></a>
+            </div>
+            <div class="covercol" id="medan">
+                <a href="#"><p>Medan</p></a>
+            </div>
+            <div class="covercol" id="makassar">
+                <a href="#"><p>Makassar</p></a>
+            </div>
+            <div class="covercol" id="surabaya">
+                <a href="#"><p>Surabaya</p></a>
+            </div>
+            <div class="covercol" id="bandung">
+                <a href="#"><p>Bandung</p></a>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Testimonials -->
+    <section id="testimonials">
+        <div class="sechead">
+            <h1>Testimonials</h1>
+            <p>Some recognition from our loyal customer. You can see how much they love us.</p>
+        </div>
+        <div id="slideshow">
+            <div class="slide-wrapper">
+                <div class="slide">
+                    <img src="./images/testi1.png">
+                    <blockquote>I now feel confident enough to find high quality tenants and manage my own properties. HacktivRent makes all of this so much easier!</blockquote>
+                    <h3>Icha</h3>
+                    <p>Medan Utara, Apartemen Dharmawangsa One</p>
+                </div>
+                <div class="slide">
+                    <img src="./images/testi2.png">
+                    <blockquote>HacktivRent is the best rental service I have found. For years, I rented and had to painfully negotiate terms, sign paper contracts, and send checks to my landlords.</blockquote>
+                    <h3>Budi</h3>
+                    <p>Jakarta Selatan, Pondok Indah Square</p>
+                </div>
+                <div class="slide">
+                    <img src="./images/testi3.png">
+                    <blockquote>Great customer service. The team at HacktivRent was available 24/7 to walk me through the process and help me secure an incredible apartment.</blockquote>
+                    <h3>Harry</h3>
+                    <p>Bandung Barat, HighPeak Residence</p>
+                </div>
+                <div class="slide">
+                    <img src="./images/testi4.png">
+                    <blockquote>HacktivRent has saved me a ton of time finding great tenants and managing lease signing. Its sophisticated features help me manage my properties seamslessly and digitally!</blockquote>
+                    <h3>Icha</h3>
+                    <p>Manado Timur, Alaya Junction</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Blog Post Section -->
+    <section id="blog">
+        <div class="sechead">
+            <h1>Blog Post</h1>
+            <p>Do it yourself doesn't mean do it alone. Join the 95,000+ landlords who use Avail to responsibly manage their properties.</p>
+        </div>
+        <div class="inner">
+            <div class="blogcol">
+                <a href="#"><img src="./images/blog1.jpeg"></a>
+                <div></div>
+                <h2>The Complete Guide to Rent Collection</h2>
+                <p>In each chapter of this guide, we'll provide expert advice on rent collection. We'll go over how to encourage timely payments, what to...<span class="readmore">Read More</span></p>
+            </div>
+            <div class="blogcol">
+                <a href="#"><img src="./images/blog2.jpeg"></a>
+                <h2>The Complete Guide to Rental Leases</h2>
+                <p>There are several things to do before you sign your lease. From researching state laws to including the right clauses, we'll help you ...<span class="readmore">Read More</span></p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Media Coverage Bar -->
+    <section id="mediacover">
+        <div class="sechead">
+            <h1>Media Recognition</h1>
+        </div>
+        <div class="inner">
+            <div class="mediacol">
+                <a href="#"><img src="./images/media1.png"></a>
+            </div>
+            <div class="mediacol">
+                <a href="#"><img src="./images/media2.png"></a>
+            </div>
+            <div class="mediacol">
+                <a href="#"><img src="./images/media3.png"></a>
+            </div>
+            <div class="mediacol">
+                <a href="#"><img src="./images/media4.png"></a>
+            </div>
+            <div class="mediacol">
+                <a href="#"><img src="./images/media5.png"></a>
+            </div>    
+        </div>
+    </section>
+
+
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <div class="column" id="footer1">
+                <a href="./index.html" class="logo">HacktivRent</a>
+                <br>
+                <br>
+                <p>No #1 Apps for Apartment Finder. Find the best Apartment in the city with a single click. Get the best price, location, and facilities you can get. Be Free.</p>
+            </div>
+            <div class="column" id="footer2">   
+                <h2>Download Now</h2>
+                <br>
+                <br>
+                <object data="./images/appstore.svg" type="image/svg+xml">
+                    <img src="./images/appstore.png">
+                </object>
+                <br>
+                <br>
+                <object data="./images/playstore.svg" type="image/svg+xml">
+                    <img src="./images/playstore.png">
+                </object>
+            </div>
+            <div class="column" id="footer3">
+                <h2>Sitemap</h2>
+                <br>
+                <nav id="nav">
+                    <a href="#howitworks">How It Works</a>
+                    <a href="#coveragearea">Coverage Area</a>
+                    <a href="#pricing">Pricing</a>
+                    <a href="#testimonials">Testimonials</a>
+                    <a href="#blog">Blog</a>
+                </nav>
+            </div>
+            <div class="column" id="footer4">
+                <h2>Contact</h2>
+                <br>
+                <i class="fas fa-building"></i><p>Jl. TB. Simatupang No. 8, Cilandak, Jakarta, 12430</p>
+                <br>
+                <i class="fas fa-phone"></i><p>1-500-666</p>
+                <br>
+                <i class="fas fa-envelope"></i><p>rent@hacktiv8.com</p>
+            </div>
+        </div> 
+        <div id="copyright">
+            <p>Copyright 2019. HacktivRent Team.</p>
+        </div>
+    </footer>
+
+</body>
+</html>

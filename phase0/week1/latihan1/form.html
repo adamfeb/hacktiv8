@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MyBook - Sign Up</title>
+    </head>
+    <body>
+        <h1>Buat Account Baru!</h1>
+        <h3>Sign Up Form</h3>
+        <form action="welcome.html" method="POST">
+            <div>
+                <label for="firstname">First Name:</label>
+                <br>
+                <input id="firstname" name="firstname" type="text" placeholder="Your First Name" required>
+            </div>
+            <br>
+            <div>
+                <label for="lastname">Last Name:</label>
+                <br>
+                <input id="lastname" name="lastname" type="text" placeholder="Your Last Name" required>
+            </div>
+            <br>
+            <div>
+                <label for="gender">Gender:</label>
+                <br>
+                <input id="gender-male" name="gender" type="radio" value="male" checked>
+                <label for="gender-male">Male</label>
+                <br>
+                <input id="gender-female" name="gender" type="radio" value="female">
+                <label for="gender-female">Female</label>
+                <br>
+                <input id="gender-other" name="gender" type="radio" value="other">
+                <label for="gender-other">Other</label>
+            </div>
+            <br>
+            <div>
+                <label for="nationality">Nationality:</label>
+                <select id="nationality" name="nationality">
+                    <option value="indonesian">Indonesian</option>
+                    <option value="singaporean">Singaoporean</option>
+                    <option value="malaysian" selected="selected">Malaysian</option>
+                    <option value="australian">Australian</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                <label for="language">Language Spoken:</label>
+                <br>
+                <input id="bahasaindonesia" name="language1" type="checkbox" value="bahasaindonesia">
+                <label for="bahasaindonesia">Bahasa Indonesia</label>
+                <br>
+                <input id="english" name="language2" type="checkbox" value="english">
+                <label for="english">English</label>
+                <br>
+                <input id="other" name="language3" type="checkbox" value="other">
+                <label for="other">Other</label>
+            </div>
+            <br>
+            <div>
+                <label for="bio">Bio:</label>
+                <br>
+                <textarea name="bio" id="bio" cols="24" rows="8" minlength="30" placeholder="Write your Bio at least in 30 char" required></textarea>
+            </div>
+            <div>
+                <input type="submit" value="Sign Up">
+            </div>
+        </form>
+    </body>
+</html>

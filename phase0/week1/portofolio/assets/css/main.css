@@ -1,0 +1,319 @@
+/* 
+
+font-family: "Playfair Display", serif;
+font-family: "Source Sans Pro", sans-serif;
+
+
+ff0000 255,0, 0
+
+ffffff 255, 255, 255
+f1f1f1 241, 241, 241
+d2d2d2 210, 210, 210
+a0a0a0 160, 160, 160
+5a5a5a 90, 90, 90
+202020 32, 32, 32
+000000 0, 0, 0
+
+
+*/
+
+
+/* Eric Meyer's CSS Reset, remove browser default styling */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+
+
+/* Global Styling */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+  font-size: 100%;
+  line-height: 1.25em;
+}
+
+a {
+  text-decoration: none;
+}
+
+i {
+  display: inline-block;
+}
+
+.wrapper {
+  max-width: 1080px;
+  width: calc(100% - 20px);
+  margin: 0 auto;
+  position: relative;
+}
+
+
+
+/* Top Navigation */
+
+.header .wrapper {
+  position: relative;
+  border-top: 0.175em solid #ff0000; 
+  height: 150px;
+}
+
+/* Logo */
+.logo {
+  display: inline-block;
+  color: #ffffff;
+  background: #ff0000;
+  font-size: 1.25em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1.5em;
+  padding: 0.4em;
+  position: absolute;
+  margin-bottom: 1.25em;
+  bottom: 0;
+  left: 0;
+}
+
+/* Navigation Bar */
+nav {
+  float: right;
+  text-align: right;
+  position: absolute;
+  margin-bottom: 1.75em;
+  bottom: 0;
+  right: 0;
+}
+
+nav a {
+  display: inline-block;
+  color: #202020;
+  font-weight: 700;
+  margin: 0 25px;
+}
+
+nav a:last-child {
+  margin-right: 0;
+}
+
+nav a:hover {
+  color: #ff0000;
+  font-weight: 700;
+}
+
+
+
+/* Hero */
+/* Maintenance */
+#banner {
+  background: #f1f1f1;
+}
+
+#banner div {
+  background: url("https://placeimg.com/1000/500/tech");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  color: #ff0000;
+  text-align: center;
+  line-height: 200px;
+  letter-spacing: 1em;
+  font-size: 3em;
+  font-weight: 300;
+}
+
+
+
+/* Footer */
+
+.footer .wrapper {
+  background-color: #080808;
+  color: #d2d2d2;
+  display: block;
+}
+
+.footer .column {
+  float: left;
+  width: 25%;
+  padding: 5em 1.75em;
+}
+
+.footer .logo {
+  margin-top: 3em;
+  height: 3.75em;
+  top: 0;
+  left: 1.5em;
+}
+
+#footer1 p {
+  margin-top: 5em;
+}
+
+#footer1 .fullname, .footer h2 {
+  font-weight: 400;
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
+#footer2 p {
+  margin-bottom: 1.5em;
+}
+
+input {
+  border: 1px solid #2d2d2d;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  width: 100%;
+  background-color: #ffffff;
+  color: #2d2d2d;
+}
+
+.subscribebutton input {
+  width: 100%;
+  margin-top: 0.75em;
+  background-color: #ff0000;
+  color: #ffffff;
+  border: 1px solid #2d2d2d;
+  border-radius: 0.5em;
+}
+
+.terms {
+  margin-top: 1.5em;
+  font-size: 0.75em;
+  font-style: italic;
+}
+
+.terms a {
+  color: #d2d2d2;
+}
+
+.bottomnav a {
+  color: #d2d2d2;
+  display: block;
+  padding-bottom: 0.25em;
+}
+
+.bottomnav a:hover {
+  color: #ff0000;
+  font-weight: 700;
+}
+
+.socmedlink a {
+  display: inline-block;
+  color: #d2d2d2;
+  font-size: 1.6em;
+  margin: 0.5em 0.2em;
+}
+
+.socmedlink #linkedin i:hover {
+  color: #0077b6;
+}
+
+.socmedlink #github i:hover {
+  color: #ffffff;
+}
+
+.socmedlink #medium i:hover {
+  color: #33bc73;
+}
+
+.socmedlink #reddit i:hover {
+  color: #f64300;
+}
+
+.socmedlink #twitter i:hover {
+  color: #1d9ceb;
+}
+
+#footer4 i {
+  float: left;
+  margin-right: 10px;
+  line-height: 30px;
+}
+
+#footer4 i:hover {
+  color: #ff0000;
+}
+/*
+#footer1 {
+  padding-left: 0 !important;
+  padding-top: 20px !important; 
+}
+
+#footer2 {
+  text-align: center;
+}
+
+#footer3 a {
+  display: block;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+#footer4 {
+  padding-right: 0 !important;
+}
+
+
+*/
+
+#footer:after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+#copyright {  
+  height: 60px;
+  width: 100%;
+  bottom: 0px;
+  position: relative;
+  text-align: center;
+  line-height: 60px;
+  background-color: #000000;
+  border-bottom: 0.175em solid #ff0000;
+  color: #ffffff;
+  clear: both;
+}
+
+/* placeholder sementara*/
+#sementara {
+  background: yellow;
+}
+
+#sementara div {
+  height: 500px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 50px
+}
+
