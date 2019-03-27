@@ -1,6 +1,7 @@
 # Week 2 - Phase 0 - Hacktiv8
 
-[![hacktiv8 compliant](https://img.shields.io/badge/week2-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)
+[![hacktiv8 compliant](https://img.shields.io/badge/week2-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 
 > Week 2 - Mengenal JavaScript
 
@@ -65,6 +66,13 @@ Minggu pertama di On-Campus Full Stack Javascript Developer Immersive Program te
   - [JavaScript String Reference by W3School](http://www.w3schools.com/jsref/jsref_obj_string.asp)
   - [JavaScript Type Conversion](http://www.w3schools.com/js/js_type_conversion.asp)
   - [Javascript Standard Style](https://standardjs.com/)
+  - [No Semicolon - An Open Letter](https://blog.izs.me/2010/12/an-open-letter-to-javascript-leaders-regarding)
+  - [No Semicolon - Automatic Semicolon Insertion](http://inimino.org/~inimino/blog/javascript_semicolons)
+  - [No Semicolon - Are Semicolon Necessary in Javascript](https://www.youtube.com/watch?v=gsfbh17Ax9I)
+  - [No Semicolon - In ASI We Trust](https://flaviocopes.com/javascript-automatic-semicolon-insertion/)
+  - [Semicolon - An Open Letter](https://hackernoon.com/an-open-letter-to-javascript-leaders-regarding-no-semicolons-82cec422d67d)
+  - [Never Trully Use Var](https://dev.to/johnwolfe820/should-you-never-truly-use-var-bdi)
+  - [No-Var](https://eslint.org/docs/rules/no-var)
 - [Memahami Perulangan atau Looping](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-2/js-first-time#loopiteration)
 - [Memahami Built-in Object Math](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-2/math-object-js)
   - [Math, by Mozilla Developer Network](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Math)
