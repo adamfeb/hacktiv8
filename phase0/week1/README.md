@@ -1,6 +1,6 @@
 # Week 1 - Phase 0 - Hacktiv8
 
-[![Hacktiv8 Phase0 Week1](https://img.shields.io/badge/week1-hacktiv8-orange.svg?style=flat-square&logo=html5)](https://github.com/adamfeb) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square&logo=nodedotjs)](https://standardjs.com)
+[![Hacktiv8 Phase0 Week1](https://img.shields.io/badge/week1-hacktiv8-orange.svg?style=flat-square)](https://github.com/adamfeb) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
 
 > Week 1 - Membuat Website Pertama Saya
 
