@@ -5,11 +5,11 @@
 
 // Algorithm
 
-1. Buat sebuah variable dengan nama "mass" dan berikan nilai sebesar 600
-2. Buat sebuah variable dengan nama "acceleration" dan berikan nilai sebesar 2
-3. Buat sebuah variable dengan nama "force" tanpa nilai
-4. Hitung "mass" dikali "acceleration"
-5. Berikan nilai pada "force" sesuai dengan hasil perhitungan
+1. Simpan "mass" dengan nilai 600
+2. Simpan "acceleration" dengan nilai 2
+3. Simpan "force" tanpa diberikan nilai. Akan diisi nanti.
+4. Hitung hasil perkalian "mass" dengan "acceleration"
+5. Setelah mendapatkan hasilnya, isikan hasilnya ke dalam "force"
 6. Tampilkan nilai "force"
 
 
@@ -35,11 +35,11 @@ DISPLAY "force"
 
 // Algorithm
 
-1. Dapatkan nilai dan berikan nilai tersebut ke variable "tahun"
-2. Jika sisa hasil bagi dari "tahun" dibagi 4 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 100 adalah 1,
-   atau jika sisa hasil bagi dari "tahun" dibagi 4 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 100 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 400 adalah 0 lalu
-3. Tampilkan "Ini adalah Tahun Kabisat"
-4. Selain itu tampilkan "Ini bukan Tahun Kabisat"
+1. Dapatkan nilai dan isikan nilainya ke dalam "tahun"
+2. Jika sisa hasil bagi "tahun" dibagi 4 adalah 0 dan sisa hasil bagi "tahun" dibagi 100 adalah 1, 
+   atau jika sisa hasil bagi "tahun" dibagi 4 adalah 0 dan sisa hasil bagi "tahun" dibagi 100 adalah 0 dan sisa hasil bagi "tahun" dibagi 400 adalah 0 lalu
+   Tampilkan "Ini adalah Tahun Kabisat"
+3. Selain itu tampilkan "Ini bukan Tahun Kabisat"
 
 
 // PseudoCode
@@ -63,8 +63,8 @@ ENDIF
 
 // Algorithm
 
-1. Buat sebuah variable dengan nama "jumlahPakaian" dan berikan nilai sebesar 20
-2. Atur nilai awal "perhitungan" sebesar 0
+1. Simpan "jumlahPakaian" dengan nilai 20
+2. Atur nilai awal "perhitungan" dengan nilai 0
 3. Selama "perhitungan" kurang dari "jumlahPakaian" lakukan
      Tambahkan 1 ke "perhitungan"
      Catat nilai "perhitungan"
@@ -96,8 +96,8 @@ DO "Turn On Washing Machine"
 
 // Algorithm
 
-1. Buat sebuah variable dengan nama "murid" dan berikan nilai sebesar 40
-2. Atur nilai awal "perhitungan" sebesar 0
+1. Simpan "jumlahMurid" dengan nilai 40
+2. Atur nilai awal "perhitungan" dengan nilai 0
 3. Selama "perhitungan" kurang dari "jumlahMurid" lakukan
      Tambahkan 1 ke "perhitungan" 
      Catat nilai "perhitungan" 
@@ -112,8 +112,8 @@ STORE "students" with 40
 SET initial "count" to 0
 
 WHILE count < students
-  ADD 1 to count
-  WRITE count
+  ADD 1 to "count"
+  WRITE "count"
   DO "Check the Student's Nails" 
     IF "Nails is Long" THEN
       DO "Give a Punishment to the Student"
