@@ -103,7 +103,7 @@ DO "Turn On Washing Machine"
      Catat nilai "perhitungan" 
      Lakukan "Pemeriksaan Kuku"
        Jika Kuku Murid Panjang, lalu Guru menghukum siswa tersebut
-       Selain Itu, Guru memberikan pujian
+       Selain itu, Guru memberikan pujian
 
 
 // PseudoCode
