@@ -37,7 +37,7 @@ DISPLAY "force"
 
 1. Dapatkan nilai dan berikan nilai tersebut ke variable "tahun"
 2. Jika sisa hasil bagi dari "tahun" dibagi 4 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 100 adalah 1,
-   atau jika sisa hasil bagi dari "tahun" dibagi 4 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 100 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 400 adalah 0
+   atau jika sisa hasil bagi dari "tahun" dibagi 4 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 100 adalah 0 dan sisa hasil bagi dari "tahun" dibagi 400 adalah 0 lalu
 3. Tampilkan "Ini adalah Tahun Kabisat"
 4. Selain itu tampilkan "Ini bukan Tahun Kabisat"
 
@@ -46,7 +46,7 @@ DISPLAY "force"
 
 READ "year"
 
-IF ("year" mod 4 is 0 AND "year" mod 100 is 1) OR ("year" mod 4 is 0 AND "year" mod 100 is 0 AND "year" mod 400 is 0)
+IF ("year" mod 4 is 0 AND "year" mod 100 is 1) OR ("year" mod 4 is 0 AND "year" mod 100 is 0 AND "year" mod 400 is 0) THEN
   WRITE "This is a Leap Year"
 ELSE 
   WRITE "This is not a Leap Year"
@@ -66,8 +66,8 @@ ENDIF
 1. Buat sebuah variable dengan nama "jumlahPakaian" dan berikan nilai sebesar 20
 2. Atur nilai awal "perhitungan" sebesar 0
 3. Selama "perhitungan" kurang dari "jumlahPakaian" lakukan
-     Tambahkan 1 ke "perhitungan" lalu
-     Catat nilai "perhitungan" lalu
+     Tambahkan 1 ke "perhitungan"
+     Catat nilai "perhitungan"
      Lakukan "Masukan Pakaian Ke Mesin Cuci"
 4. Setelah itu "Nyalakan Mesin Cuci"
 
@@ -99,10 +99,10 @@ DO "Turn On Washing Machine"
 1. Buat sebuah variable dengan nama "murid" dan berikan nilai sebesar 40
 2. Atur nilai awal "perhitungan" sebesar 0
 3. Selama "perhitungan" kurang dari "jumlahMurid" lakukan
-     Tambahkan 1 ke "perhitungan" lalu
-     Catat nilai "perhitungan" lalu
+     Tambahkan 1 ke "perhitungan" 
+     Catat nilai "perhitungan" 
      Lakukan "Pemeriksaan Kuku"
-       Jika Kuku Murid Panjang, Guru menghukum siswa tersebut
+       Jika Kuku Murid Panjang, lalu Guru menghukum siswa tersebut
        Selain Itu, Guru memberikan pujian
 
 
@@ -115,7 +115,7 @@ WHILE count < students
   ADD 1 to count
   WRITE count
   DO "Check the Student's Nails" 
-    IF "Nails is Long"
+    IF "Nails is Long" THEN
       DO "Give a Punishment to the Student"
     ELSE
       DO "Give a Compliment to the Student"
