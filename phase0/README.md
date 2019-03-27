@@ -1,6 +1,6 @@
 # Phase 0 - Hacktiv8
 
-[![Hacktiv8 Phase0](https://img.shields.io/badge/phase0-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square&logo=node-dot-js)](https://standardjs.com)
+[![Hacktiv8 Phase0](https://img.shields.io/badge/phase0-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)  [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square&logo=node-dot-js)](https://standardjs.com)
 
 > Hacktiv8 Batch 31 Eager Fox 2019 - Phase 0
 
