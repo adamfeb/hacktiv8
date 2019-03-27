@@ -35,7 +35,7 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 
 ## Short Story
 
-Minggu pertama di On-Campus Full Stack Javascript Developer Immersive Program telah selesai dengan materi HTML5, CSS3, dan Git. Minggu kedua telah dimulai dengan materi-materi dasar tentang pengenalan JavaScript. Instruktur yang mengajarkan materi ini adalah **Hary Dhimas Prakoso**, dan **Aries Dimas Yudhistira**. Materi yang diajarkan antara lain pengenalan programming, algoritma, pseudocode, tipe data dan variable pada javascript, operasi dasar pada javascript, control flow: conditional dan branching, looping, function dan method, scope, dan function.
+Minggu pertama di On-Campus Full Stack Javascript Developer Immersive Program telah selesai dengan materi HTML5, CSS3, dan Git. Minggu kedua telah dimulai dengan materi-materi dasar tentang pengenalan JavaScript. Instruktur yang mengajarkan materi ini adalah **Hary Dhimas Prakoso**, dan **Aries Dimas Yudhistira**. Materi yang diajarkan antara lain pengenalan programming, algoritma, pseudocode, sintaks (syntax) dan pernyataan (statement): terkait bagaimana cara menulis code-nya, tipe data (data types) dan/atau struktur data (data structure), variabel dan operator, kondisional (conditional) atau percabangan (branching), kumpulan/koleksi data (collections) serta perulangan/iterasi (loop/iteration), fungsi/metode (function/method).
 
 
 ## References
