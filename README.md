@@ -1,6 +1,6 @@
 # Hacktiv8 - On Campus Full Stack Javascript Immersive Program
 
-[![Hacktiv8](https://img.shields.io/badge/coding%20bootcamp-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb)  [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square&logo=node-dot-js)](https://standardjs.com)
+[![Hacktiv8](https://img.shields.io/badge/coding%20bootcamp-hacktiv8-orange.svg?style=flat-square&logo=javascript)](https://github.com/adamfeb) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square&logo=node.js)](https://standardjs.com)
 
 > Hacktiv8 Batch 31 Eager Fox 2019
 
