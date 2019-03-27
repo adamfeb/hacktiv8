@@ -54,6 +54,7 @@ Minggu pertama di On-Campus Full Stack Javascript Developer Immersive Program te
   - [Pseudocode to Javascript - LMU Build](https://dondi.lmu.build/share/intro/pseudocode2js-v02.pdf)
   - [Planning with Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/pt/planning-with-pseudo-code)
   - [Pseudocode Tutuorial](http://www.cosc.canterbury.ac.nz/tim.bell/dt/Tutorial_Pseudocode.pdf)
+  - [Pseudocode - VikingCodeSchool](https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding)
 - [Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - [Memahami dan menggunakan dasar pemrograman dengan JavaScript](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-2/js-first-time)
 - [Memahami Tipe Data dan Variabel pada JavaScript](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-2/js-first-time#data-type)
