@@ -1,6 +1,6 @@
 # Week 2 - Phase 0 - Hacktiv8
 
-[![Hacktiv8 Phase0 Week2](https://img.shields.io/badge/week2-hacktiv8-orange.svg?style=flat-square)](https://github.com/adamfeb) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+[![Hacktiv8 Phase0 Week2](https://img.shields.io/badge/week2-hacktiv8-orange.svg?style=flat-square)](https://hacktiv8.com/fullstack) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
 
 
 > Week 2 - Mengenal JavaScript
