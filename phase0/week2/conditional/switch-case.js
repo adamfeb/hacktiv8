@@ -1,9 +1,11 @@
+//  Isikan tanggal, bulan, dan tahun hanya dengan angka.
 var tanggal = 30
 var bulan = 9
 var tahun = 1965
 var namaBulan
 var maxTanggal
 
+// Switch Case penamaan bulan
 switch (bulan) {
   case 1:
     maxTanggal = 31
@@ -58,7 +60,7 @@ switch (bulan) {
     namaBulan = 'Desember'
 }
 
-//  Validasi
+//  Validasi dan Output
 if (typeof tanggal !== 'number' || typeof bulan !== 'number' || typeof tahun !== 'number') {
   console.log('Input tidak valid. Input harus berupa angka. Periksa lagi input anda')
 } else {
