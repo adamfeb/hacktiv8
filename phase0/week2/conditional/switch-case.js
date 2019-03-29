@@ -5,7 +5,7 @@ var tahun = 1965
 var namaBulan
 var maxTanggal
 
-// Switch Case penamaan bulan
+// Switch Case penamaan bulan dan conditional tanggal maksimal dalam bulan tersebut
 switch (bulan) {
   case 1:
     maxTanggal = 31
