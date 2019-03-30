@@ -54,7 +54,7 @@ console.log('Fifth Word: ' + fifthWord3)
 
 //
 //
-// 4. Breaking Sentence (Again) using Substring
+// 4. Breaking Sentence (yet Again) and Count Each Length
 //
 //
 
