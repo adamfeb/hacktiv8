@@ -18,8 +18,7 @@ if (nama !== '' && peran !== '') {
     } else {
       pesan = 'ciptakan keajaiban yang membantu kemenanganmu!'
     }
-    console.log('Selamat datang di Dunia Proxytia, ' + nama)
-    console.log('Halo ' + peran + ' ' + nama + ', ' + pesan)
+    console.log('Selamat datang di Dunia Proxytia, ' + nama + '\nHalo ' + peran + ' ' + nama + ', ' + pesan)
   } else {
     console.log('Maaf ' + nama + ', Peran yang kamu tuliskan tidak tersedia di game ini.')
   }
