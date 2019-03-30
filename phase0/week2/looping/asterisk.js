@@ -18,9 +18,9 @@ for (var i = 1; i <= rows1; i++) {
 
 var rows2 = 5
 
-for (var i = 1; i <= rows2; i++) {
+for (var k = 1; k <= rows2; k++) {
   var asterisk = ''
-  for (var j = 1; j <= rows2; j++) {
+  for (var l = 1; l <= rows2; l++) {
     asterisk = asterisk + '*'
   }
   console.log(asterisk)
@@ -34,9 +34,9 @@ for (var i = 1; i <= rows2; i++) {
 
 var rows3 = 5
 
-for (var i = 1; i <= rows3; i++) {
+for (var r = 1; r <= rows3; r++) {
   var asterisk2 = ''
-  for (var j = 1; j <= i; j++) {
+  for (var s = 1; s <= r; s++) {
     asterisk2 = asterisk2 + '*'
   }
   console.log(asterisk2)
