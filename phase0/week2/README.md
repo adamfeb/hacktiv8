@@ -32,6 +32,7 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 - [Balik Kata](https://adamfeb.github.io/hacktiv8/phase0/week2/problemsolving/balikKata.js)
 - [Konversi Menit](https://adamfeb.github.io/hacktiv8/phase0/week2/problemsolving/konversiMenit.js)
 - [X dan O](https://adamfeb.github.io/hacktiv8/phase0/week2/problemsolving/xDanO.js)
+- [JavaScript Exercisex](https://github.com/adamfeb/hacktiv8/tree/master/phase0/week2/exercises)
 
 
 ## Short Story
