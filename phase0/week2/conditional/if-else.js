@@ -4,24 +4,31 @@ var nama = 'AdamFeb'
 // Pastikan kamu menuliskan peran dengan benar
 // Isikan peran yang kamu pilih di dalam tanda petik
 var peran = 'peNyiHir'
+// Antisipasi jika user menginput dengan case yang berbeda, Penyihir, penyihir, peNyiHir, PENYIHIR
 peran = peran.toLowerCase()
+// DRY - Don't Repeat Yourself
+var pesan
 
 if (nama !== '' && peran !== '') {
-  if (peran === 'ksatria') {
-    console.log('\"Selamat datang di Dunia Proxytia, ' + nama + '\"\n\"Halo Ksatria ' + nama + ', kamu dapat menyerang dengan senjatamu!\"')
-  } else if (peran === 'tabib') {
-    console.log('\"Selamat datang di Dunia Proxytia, ' + nama + '\"\n\"Halo Tabib ' + nama + ', kamu akan membantu temanmu yang terluka.\"')
-  } else if (peran === 'penyihir') {
-    console.log('\"Selamat datang di Dunia Proxytia, ' + nama + '\"\n\"Halo Penyihir ' + nama + ', ciptakan keajaiban yang membantu kemenanganmu!\"')
+  if (peran === 'ksatria' || peran === 'tabib' || peran === 'penyihir') {
+    if (peran === 'ksatria') {
+      pesan = 'kamu dapat menyerang dengan senjatamu!'
+    } else if (peran === 'tabib') {
+      pesan = 'kamu akan membantu temanmu yang terluka.'
+    } else {
+      pesan = 'ciptakan keajaiban yang membantu kemenanganmu!'
+    }
+    console.log('Selamat datang di Dunia Proxytia, ' + nama)
+    console.log('Halo ' + peran + ' ' + nama + ', ' + pesan)
   } else {
-    console.log('\"Maaf ' + nama + ', Peran yang kamu tuliskan tidak tersedia di game ini.\"')
+    console.log('Maaf ' + nama + ', Peran yang kamu tuliskan tidak tersedia di game ini.')
   }
 } else {
   if (nama === '' && peran === '') {
-    console.log('\"Untuk memulai game, Nama dan Peran harus diisi!\"')
+    console.log('Untuk memulai game, Nama dan Peran harus diisi!')
   } else if (peran === '') {
-    console.log('\"Halo ' + nama + ', Kamu harus memilih peranmu untuk memulai game!\"')
+    console.log('Halo ' + nama + ', Kamu harus memilih peranmu untuk memulai game!')
   } else {
-    console.log('\"Kamu telah memilih peran ' + peran + ', tetapi kamu harus mengisi nama terlebih dahulu untuk memulai game!\"')
+    console.log('Kamu telah memilih peran ' + peran + ', tetapi kamu harus mengisi nama terlebih dahulu untuk memulai game!')
   }
 }

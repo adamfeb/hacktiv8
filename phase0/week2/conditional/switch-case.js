@@ -71,6 +71,6 @@ if (typeof tanggal !== 'number' || typeof bulan !== 'number' || typeof tahun !==
   } else if (tahun < 1900 || tahun > 2200) {
     console.log('Penulisan tahun salah, tahun diantara 1900 - 2200')
   } else {
-    console.log('\'' + tanggal, namaBulan, tahun + '\'')
+    console.log(tanggal + ' ' + namaBulan + ' ' + tahun)
   }
 }
