@@ -76,6 +76,8 @@ Minggu pertama di On-Campus Full Stack Javascript Developer Immersive Program te
   - [Pembulatan Desimal](https://pawelgrzybek.com/rounding-and-truncating-numbers-in-javascript/)
   - [Date and Time in JavaScript](https://webbjocke.com/javascript-date-and-time/)
 - [Memahami Tipe Data String pada JavaScript](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-2/js-string-reference)
+  - [JavaScript Identifiers](https://mathiasbynens.be/notes/javascript-identifiers)
+  - [Reserved Words](https://www.w3schools.com/js/js_reserved.asp)
   - [String by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
   - [JavaScript String Reference by W3School](http://www.w3schools.com/jsref/jsref_obj_string.asp)
   - [JavaScript Type Conversion](http://www.w3schools.com/js/js_type_conversion.asp)
