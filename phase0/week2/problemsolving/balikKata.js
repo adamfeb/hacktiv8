@@ -1,9 +1,6 @@
 function balikKata (kata) {
-  var i = kata.length - 1
-  var j = 0
   var k = ''
-
-  for (j = i; j >= 0; j--) {
+  for (var j = kata.length - 1; j >= 0; j--) {
     k += kata[j]
   }
   return k
