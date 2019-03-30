@@ -1,10 +1,8 @@
 function xo (str) {
-  var p = str.length
-  var i = 0
   var countx = 0
   var counto = 0
 
-  for (i = 0; i < p; i++) {
+  for (var i = 0; i < str.length; i++) {
     if (str[i] === 'x') {
       countx++
     } else if (str[i] === 'o') {
