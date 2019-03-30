@@ -27,7 +27,7 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 - [Berlatih Perulangan](https://adamfeb.github.io/hacktiv8/phase0/week2/looping/looping.js)
 - [Perulangan - Asterisk](https://adamfeb.github.io/hacktiv8/phase0/week2/looping/asterisk.js)
 - [CodeAcademy - Functions](https://adamfeb.github.io/hacktiv8/phase0/week2/codeacademy/week2day4-codeacademy-javascript-functions.png)
-- [Functions](#)
+- [Functions](https://adamfeb.github.io/hacktiv8/phase0/week2/function/function.js)
 - [Bandingkan Angka](#)
 - [Balik Kata](#)
 - [Konversi Menit](#)
