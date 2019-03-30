@@ -28,10 +28,10 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 - [Perulangan - Asterisk](https://adamfeb.github.io/hacktiv8/phase0/week2/looping/asterisk.js)
 - [CodeAcademy - Functions](https://adamfeb.github.io/hacktiv8/phase0/week2/codeacademy/week2day4-codeacademy-javascript-functions.png)
 - [Functions](https://adamfeb.github.io/hacktiv8/phase0/week2/function/function.js)
-- [Bandingkan Angka](#)
-- [Balik Kata](#)
-- [Konversi Menit](#)
-- [X dan O](#)
+- [Bandingkan Angka](https://adamfeb.github.io/hacktiv8/phase0/week2/problemsolving/bandingkanAngka.js)
+- [Balik Kata](https://adamfeb.github.io/hacktiv8/phase0/week2/problemsolving/balikKata.js)
+- [Konversi Menit](https://adamfeb.github.io/hacktiv8/phase0/week2/problemsolving/konversiMenit.js)
+- [X dan O](https://adamfeb.github.io/hacktiv8/phase0/week2/problemsolving/xDanO.js)
 
 
 ## Short Story
