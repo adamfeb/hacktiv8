@@ -17,10 +17,29 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 
 <a href="https://hacktiv8.com/"><img src="https://hacktiv8.com/img/logo-hacktiv8_bordered.png"></a>
 
+
 ## Table of Contents
 
 - [Live Coding](https://github.com/adamfeb/hacktiv8/tree/master/phase0/week3/livecoding)
-- 
+  - [Number 1](https://adamfeb.github.io/hacktiv8/phase0/week3/livecoding/1.js)
+  - [Number 2](https://adamfeb.github.io/hacktiv8/phase0/week3/livecoding/2.js)
+  - [Number 3](https://adamfeb.github.io/hacktiv8/phase0/week3/livecoding/3.js)
+  - [Rocket](https://adamfeb.github.io/hacktiv8/phase0/week3/livecoding/rocket.js)
+- [JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://adamfeb.github.io/hacktiv8/phase0/week3/codeacademy/week3day2-codeacademy-javascript-array-and-loops.png)
+- [Tantangan Array 1 (Mengakses Nilai dalam Array)](https://adamfeb.github.io/hacktiv8/phase0/week3/tantangan/array1.js)
+- [Tantangan Array 2 (Melooping menggunakan Array)](https://adamfeb.github.io/hacktiv8/phase0/week3/tantangan/array2.js)
+- [Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](https://adamfeb.github.io/hacktiv8/phase0/week3/tantangan/array3.js)
+- [Palindrome (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/logic/palindrome.js)
+- [Palindrome Angka (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/logic/palindromeAngka.js)
+- [Hitung Jumlah Kata (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/logic/hitungJumlahKata.js)
+- [Pasangan Angka Terbesar (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/logic/pasanganAngkaTerbesar.js)
+- [Cari Mean (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/morelogic/cariMean.js)
+- [Perkalian Unik (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/morelogic/perkalianUnik.js)
+- [Deret Aritmatika (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/morelogic/deretAritmatika.js)
+- [Deret Geometri (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/morelogic/deretGeometri.js)
+- [Target Terdekat  (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/morearray/targetTerdekat.js)
+- [Mengelompokkan Angka](https://adamfeb.github.io/hacktiv8/phase0/week3/multidimensionalarray/mengelompokkanAngka.js)
+- [Mengelompokkan Hewan](https://adamfeb.github.io/hacktiv8/phase0/week3/multidimensionalarray/mengelompokkanHewan.js)
 
 
 ## Short Story
@@ -44,16 +63,25 @@ Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary 
 
 ## References
 
-- [If-Else Exercise](https://www.teaching-materials.org/javascript/exercises/ifelse)
-- [If-Else Test](https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php)
-- [Javascript Exercise w3school](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_conditions1)
-- [Asterisk - Pyramid Challange](https://www.programiz.com/c-programming/examples/pyramid-pattern)
-- [Asterisk - Pyramid Master](https://codeforwin.org/2015/07/star-patterns-program-in-c.html)
+- [Mempelajari tipe data Array](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-3/js-array)
+- [Memahami Tipe Data String pada JavaScript](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-3/js-string-reference)
+  - [String by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+  - [JavaScript String Reference by W3School](http://www.w3schools.com/jsref/jsref_obj_string.asp)
+  - [JavaScript Type Conversion](http://www.w3schools.com/js/js_type_conversion.asp)
+- [Mengenal Node JS](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-3/js-node)
+- [Membuat code JavaScript-mu dengan Baik](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-3/js-code-style)
+  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+  - [Google JavaScript Style Guide](https://github.com//google/styleguide)
+  - [Code Conventions for the JavaScript, by Douglas Crockford](http://javascript.crockford.com/code.html)
+  - [The Zen Approach: JavaScript Styleguide](https://github.com/nijikokun/the-zen-approach)
+  - [JSLint: The JavaScript Code Quality Tool](http://jslint.com/)
+  - [JSHint: A JavaScript Code Quality Tool](http://jshint.com/)
+  - [JSCS: Code style linter and formatter for your style guide](http://jscs.info/)
+  - [ESLint: Pluggable JavaScript linter](http://eslint.org/)
+- [Javascript Exercise w3school](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays1)
 - [Javascript Standard Style](https://standardjs.com/)
-- [Understanding Scope in Javascript](https://scotch.io/tutorials/understanding-scope-in-javascript)
-- [JavaScript Shorthand Coding Technique](https://gist.github.com/pongstr/9f273cdfbd5b600bc758)
 - [JavaScript Exercise](https://www.w3resource.com/javascript-exercises/)
-- [Menghitung Nilai Max/Min dari Array](http://www.jstips.co/en/calculate-the-max-min-value-from-an-array/)
+  - [Menghitung Nilai Max/Min dari Array](http://www.jstips.co/en/calculate-the-max-min-value-from-an-array/)
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)
 - [How daily vlogging has made me more productive and a better entrepreneur](https://meda.io/blog/startup/2016/05/20/how-daily-vlogging-has-made-me-more-productive-and-a-better-entrepreneur.html)
 
