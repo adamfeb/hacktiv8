@@ -54,7 +54,7 @@ Sebuah managemen waktu yang sangat buruk. File jawaban harusnya dipersiapkan seb
 
 > Amat Victoria Curam. Victory Loves Preparation 
 
-Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary Dhimas Prakoso**, **Aries Dimas Yudhistira**, **Tony (Song) Soekirman**, dan **Ryan Akbar**. Ditentukan juga *buddy* untuk tiap peserta, dimana satu orang *buddy* menghandle 10 peserta. *Buddy* adalah instructor prioritas untuk peserta dalam konsultasi / tanya-jawab / diskusi / dan membahas masalah lainnya. Saya mendapatkan *buddy* *Aries Dimas Yudhistira*. Materi yang diajarkan di minggu ketiga akan berfokus pada Array dan Logic. Adapun rincian yang materi yang akan dipelajari antara lain Pengenalan Tipe Data Array, Logic Challange Refresh, More Logic Challange, More Array, dan Multidimensional Array.
+Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary Dhimas Prakoso**, **Aries Dimas Yudhistira**, **Tony (Song) Soekirman**, dan **Ryan Akbar**. Ditentukan juga *buddy* untuk tiap peserta, dimana satu orang *buddy* menghandle 10 peserta. *Buddy* adalah instructor prioritas untuk peserta dalam konsultasi / tanya-jawab / diskusi / dan membahas masalah lainnya. Saya mendapatkan *buddy* **Aries Dimas Yudhistira**. Materi yang diajarkan di minggu ketiga akan berfokus pada Array dan Logic. Adapun rincian yang materi yang akan dipelajari antara lain Pengenalan Tipe Data Array, Logic Challange Refresh, More Logic Challange, More Array, dan Multidimensional Array.
 
 > If you want to make good use of your time, you’ve got to know what’s most important and then give it all you’ve got. 
 
@@ -78,8 +78,8 @@ Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary 
   - [JSHint: A JavaScript Code Quality Tool](http://jshint.com/)
   - [JSCS: Code style linter and formatter for your style guide](http://jscs.info/)
   - [ESLint: Pluggable JavaScript linter](http://eslint.org/)
-- [Javascript Exercise w3school](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays1)
 - [Javascript Standard Style](https://standardjs.com/)
+- [Javascript Exercise w3school](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays1)
 - [JavaScript Exercise](https://www.w3resource.com/javascript-exercises/)
   - [Menghitung Nilai Max/Min dari Array](http://www.jstips.co/en/calculate-the-max-min-value-from-an-array/)
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)
