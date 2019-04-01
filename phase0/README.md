@@ -11,7 +11,6 @@ Repository ini berisi:
 1. Hasil latihan pribadi saya, selama menjalani Phase 0
 2. Tugas yang diberikan
 3. Percobaan-percobaan yang saya lakukan
-4. Hal lain yang berkaitan
 
 Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajari dan kerjakan selama mengikuti On-Campus Full Stack Javascript Developer Immersive Program.
 
