@@ -1,5 +1,7 @@
 function findAndReplace (str, character) {
-  if (character.length === 1) {
+  if (character.length !== 1) {
+    return 'Invalid input parameter !'
+  } else {
     var total = 0
     for (var i = 0; i < str.length; i++) {
       if (str[i] === character) {
@@ -7,8 +9,6 @@ function findAndReplace (str, character) {
       }
     }
     return 'Terdapat ' + total + ' huruf ' + character
-  } else {
-    return 'Invalid input parameter !'
   }
 }
 
