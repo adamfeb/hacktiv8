@@ -44,15 +44,25 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 
 ## Short Story
 
+> Amat Victoria Curam. Victory Loves Preparation 
+
 Memasuki minggu ketiga, hari pertama, Senin, dimulai dengan live coding, dengan materi Algoritma, Pseudocode, Conditional, Looping, dan Nested Looping. Memilih sesi pertama dengan maksud agar bisa mereview soal setelahnya. Tidak mudah. Hanya soal nomor 1 tentang algoritma dan pseudocode dan soal nomor 2 tentang conditional / looping yang selesai saya kerjakan. Soal nomor 3 tentang nested looping belum selesai saat file dikumpulkan. Bahkan ada soal *Rocket* yang tidak sempat dilihat. Waktu keburu habis. 30 menit pertama dihabiskan untuk membuat file, push ke Github dan mengerjakan soal nomor 1 dengan sempurna (terlalu sempurna, bahkan). Overkill. Exaggerated. Superfluous. Berlebihan. 
 
 > Time is what we want most, but what we use worst. 
 
 ~ [William Penn](https://en.wikipedia.org/wiki/William_Penn)
 
-Sebuah managemen waktu yang sangat buruk. File jawaban harusnya dipersiapkan sebelum dimulai, dan sudah di push ke Github. Soal no 1 harusnya bisa diselesaikan dalam waktu 10 menit. 1 menit untuk membaca soal, 5 menit untuk menulis algoritma dan 4 menit untuk menulis pseudocode. Seharusnya cukup. Jawaban yang penting *acceptable* dan *understandable*. 15 menit berikutnya dihabiskan untuk menyelesaikan soal no 2. Seharusnya soal sesederhana itu bisa selesai dalam waktu 5 menit. Terlalu banyak percobaan, terlalu banyak validasi. Overthinking. Padahal sudah yakin code benar. Harus lebih yakin terhadap diri sendiri. Soal no 3 tidak mendapatkan porsi waktu yang cukup. Ditambah persiapan yang kurang matang. Sebenarnya soal semacam ini sudah ada materinya, hanya tinggal dipelajari dan dicoba. Lagi-lagi masalah managemen waktu yang sangat buruk. Terlalu banyak main. Terlalu banyak nongkrong. Harus lebih baik mengatur waktu dan menyusun prioritas. Kamu lebih tau. Kamu lebih paham. Jangan biarkan hal seperti ini terjadi lagi.
+Sebuah managemen waktu yang sangat buruk. File jawaban harusnya dipersiapkan sebelum dimulai, dan sudah di push ke Github. Soal no 1 harusnya bisa diselesaikan dalam waktu 10 menit. 1 menit untuk membaca soal, 5 menit untuk menulis algoritma dan 4 menit untuk menulis pseudocode. Seharusnya cukup. Jawaban yang penting *acceptable* dan *understandable*. 15 menit berikutnya dihabiskan untuk menyelesaikan soal no 2. Seharusnya soal sesederhana itu bisa selesai dalam waktu 5 menit. Terlalu banyak percobaan, terlalu banyak validasi. Overthinking. Padahal sudah yakin code benar. Harus lebih yakin terhadap diri sendiri. 
 
-> Amat Victoria Curam. Victory Loves Preparation 
+> Attention management is the art of focusing on getting things done for the right reasons, in the right places and at the right moments.
+
+~ [Adam Grant on New York Times](https://nyti.ms/2V1vZ4n)
+
+Soal no 3 tidak mendapatkan porsi waktu yang cukup. Ditambah persiapan yang kurang matang. Sebenarnya soal semacam ini sudah ada materinya, hanya tinggal dipelajari dan dicoba. Lagi-lagi masalah managemen waktu yang sangat buruk. Terlalu banyak main. Terlalu banyak nongkrong. Harus lebih baik mengatur waktu dan menyusun prioritas. Kamu lebih tau. Kamu lebih paham. Jangan biarkan hal seperti ini terjadi lagi.
+
+ > I’m pretty sure there’s an eighth habit of highly effective people. They don’t spend all their time reading about the seven habits of highly effective people.
+
+ ~ [Adam Grant on New York Times](https://nyti.ms/2V1vZ4n)
 
 Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary Dhimas Prakoso**, **Aries Dimas Yudhistira**, **Tony (Song) Soekirman**, dan **Ryan Akbar**. Ditentukan juga *buddy* untuk tiap peserta, dimana satu orang *buddy* menghandle 10 peserta. *Buddy* adalah instructor prioritas untuk peserta dalam konsultasi / tanya-jawab / diskusi / dan membahas masalah lainnya. Saya mendapatkan *buddy* **Aries Dimas Yudhistira**. Materi yang diajarkan di minggu ketiga akan berfokus pada Array dan Logic. Adapun rincian yang materi yang akan dipelajari antara lain Pengenalan Tipe Data Array, Logic Challange Refresh, More Logic Challange, More Array, dan Multidimensional Array.
 
@@ -82,6 +92,8 @@ Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary 
 - [Javascript Exercise w3school](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays1)
 - [JavaScript Exercise](https://www.w3resource.com/javascript-exercises/)
   - [Menghitung Nilai Max/Min dari Array](http://www.jstips.co/en/calculate-the-max-min-value-from-an-array/)
+- [Productivity Isn’t About Time Management. It’s About Attention Management.](https://nyti.ms/2V1vZ4n)
+- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)
 - [How daily vlogging has made me more productive and a better entrepreneur](https://meda.io/blog/startup/2016/05/20/how-daily-vlogging-has-made-me-more-productive-and-a-better-entrepreneur.html)
 
