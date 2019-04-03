@@ -94,6 +94,8 @@ Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary 
   - [Menghitung Nilai Max/Min dari Array](http://www.jstips.co/en/calculate-the-max-min-value-from-an-array/)
 - [Productivity Isn’t About Time Management. It’s About Attention Management.](https://nyti.ms/2V1vZ4n)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+- [What Programming Language Should I Learn First](https://medium.com/p/19a33b0a467d/)
+- [Truthy Falsey](https://dorey.github.io/JavaScript-Equality-Table/)
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)
 - [How daily vlogging has made me more productive and a better entrepreneur](https://meda.io/blog/startup/2016/05/20/how-daily-vlogging-has-made-me-more-productive-and-a-better-entrepreneur.html)
 
