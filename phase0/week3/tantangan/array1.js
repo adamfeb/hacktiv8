@@ -24,6 +24,6 @@ function balikString (array) {
 }
 
 console.log(balikString(['Adam Febrianata']))
-// Array berisi satu input
+// Array berisi satu item
 console.log(balikString(['Adam Febrianata ', 'Benny Irawan ', 'Edi Handoko']))
-// Array berisi tiga input, yang dibalik katanya (decrement j), dan juga urutannya (decrement i)
+// Array berisi tiga items, yang dibalik katanya (decrement j), dan juga urutannya (decrement i)
