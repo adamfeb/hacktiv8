@@ -16,9 +16,9 @@ function dataHandling (array) {
         tanggal = array[i][j] + '\n'
       } else {
         if (i !== array.length - 1) {
-          hobi = 'Hobi: ' + array[i][j] + '\n' // hobi dengan enter
+          hobi = 'Hobi: ' + array[i][j] + '\n' // hobi, dengan enter
         } else {
-          hobi = 'Hobi: ' + array[i][j] // hobi baris terakhir tanpa enter
+          hobi = 'Hobi: ' + array[i][j] // hobi, baris terakhir, tanpa enter
         }
       }
     }
