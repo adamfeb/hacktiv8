@@ -81,8 +81,8 @@ function joinFullDate () {
   return joinedDate
 }
 
-function sliceFullName (input) {
-  var slicedName = input[1].slice(0, 15)
+function sliceFullName (arrName) {
+  var slicedName = arrName[1].slice(0, 15)
   return slicedName
 }
 
