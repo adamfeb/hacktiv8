@@ -12,6 +12,7 @@ function splitFullDate (arrDate) {
 
 function getMonthName () {
   var month = Number(splitFullDate(input)[1]) // just in case ada yang nulis 05 atau 5
+  var monthName = ''
   switch (month) {
     case 1:
       monthName = 'Januari'
@@ -31,7 +32,7 @@ function getMonthName () {
     case 6:
       monthName = 'Juni'
       break
-    case 7:input
+    case 7:
       monthName = 'Juli'
       break
     case 8:
@@ -59,7 +60,7 @@ function manualSortFullDate () {
   var sortedDate = splitFullDate(input)
   for (var i = 0; i < sortedDate.length - 1; i++) {
     for (var j = i + 1; j < sortedDate.length; j++) {
-      if (Number(sortedDate[i]) < Number(sortedDate[j])) { 
+      if (Number(sortedDate[i]) < Number(sortedDate[j])) {
         var temp = sortedDate[i]
         sortedDate[i] = sortedDate[j]
         sortedDate[j] = temp
@@ -70,7 +71,7 @@ function manualSortFullDate () {
 }
 
 // function autoSortFullDate () {
-//   var autoSortedDate = splitFullDate(input) 
+//   var autoSortedDate = splitFullDate(input)
 //   autoSortedDate.sort(function (a, b) { return b - a}) // callback function
 //   return autoSortedDate
 // }
