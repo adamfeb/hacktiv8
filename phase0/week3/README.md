@@ -96,6 +96,7 @@ Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary 
   - [Manual Sort Array](https://stackoverflow.com/questions/34745203/using-a-for-loop-to-manually-sort-an-array-java)
   - [Number Sort Array](https://raddevon.com/articles/sort-array-numbers-javascript/)
   - [Insertion Sort / Selection Sort](https://stackoverflow.com/questions/1063007/how-to-sort-an-array-of-integers-correctly)
+  - [Slice, Splice, Split](https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae)
 - [Productivity Isn’t About Time Management. It’s About Attention Management.](https://nyti.ms/2V1vZ4n)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 - [What Programming Language Should I Learn First](https://medium.com/p/19a33b0a467d/)
