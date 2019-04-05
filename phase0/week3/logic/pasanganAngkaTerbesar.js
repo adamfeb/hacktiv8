@@ -7,7 +7,7 @@ function pasanganTerbesar (num) {
       terbesar = couple
     }
   }
-  return terbesar
+  return Number(terbesar)
 }
 
 console.log(pasanganTerbesar(641573)) // 73
