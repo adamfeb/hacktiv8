@@ -31,9 +31,9 @@ console.log(mengelompokkanAngka([]))
 // [ [], [], [] ]
 
 // JUST IN CASE USER INPUT SOMETHING ELSE
-// console.log(mengelompokkanAngka([0, -4, -5, -6, -8, 9, 2, 7, 0]))
+console.log(mengelompokkanAngka([0, -4, -5, -6, -8, 9, 2, 7, 0]))
 // [ [ 0, -4, -8, 2, 0 ], [ -5, 7 ], [ -6, 9 ] ]
-// console.log(mengelompokkanAngka([true, false, false, true, false, true]))
+console.log(mengelompokkanAngka([true, false, false, true, false, true]))
 // [ [], [], [] ]
-// console.log(mengelompokkanAngka(['adam', 0, 'budi', false, 1, true, 6]))
+console.log(mengelompokkanAngka(['adam', 0, 'budi', false, 1, true, 6]))
 // [ [ 0 ], [ 1 ], [ 6 ] ]
