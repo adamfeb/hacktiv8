@@ -1,22 +1,22 @@
 function mengelompokkanAngka (arr) {
-  var kel1 = []
-  var kel2 = []
-  var kel3 = []
-  var hasil = []
+  var group1 = []
+  var group2 = []
+  var group3 = []
+  var allGroup = []
 
   for (var i = 0; i < arr.length; i++) {
     if (arr[i] === 0) {
-      kel1.push(arr[i])
+      group1.push(arr[i])
     } else if (Math.abs(arr[i]) % 3 === 0) {
-      kel3.push(arr[i])
+      group3.push(arr[i])
     } else if (Math.abs(arr[i]) % 2 === 1) {
-      kel2.push(arr[i])
+      group2.push(arr[i])
     } else {
-      kel1.push(arr[i])
+      group1.push(arr[i])
     }
   }
-  hasil.push(kel1, kel2, kel3)
-  return hasil
+  allGroup.push(group1, group2, group3)
+  return allGroup
 }
 
 console.log(mengelompokkanAngka([2, 4, 6]))
