@@ -25,7 +25,23 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
   - [Number 2](https://adamfeb.github.io/hacktiv8/phase0/week4/livecoding/2.js)
   - [Number 3](https://adamfeb.github.io/hacktiv8/phase0/week4/livecoding/3.js)
   - [Rocket](https://adamfeb.github.io/hacktiv8/phase0/week4/livecoding/rocket.js)
-
+- [Angka Prima](https://adamfeb.github.io/hacktiv8/phase0/week4/numbersstrings/angkaPrima.js)
+- [Faktor Persekutuan Terbesar](https://adamfeb.github.io/hacktiv8/phase0/week4/numbersstrings/faktorPersekutuanTerbesar.js)
+- [Cari Median](https://adamfeb.github.io/hacktiv8/phase0/week4/numbersstrings/cariMedian.js)
+- [Cari Modus](https://adamfeb.github.io/hacktiv8/phase0/week4/numbersstrings/cariModus.js)
+- [Ubah Huruf](https://adamfeb.github.io/hacktiv8/phase0/week4/numbersstrings/ubahHuruf.js)
+- [Digit Pekalian Minimum](https://adamfeb.github.io/hacktiv8/phase0/week4/builtinfunctions/digitPerkalianMinimum.js)
+- [Urutkan Abjad](https://adamfeb.github.io/hacktiv8/phase0/week4/builtinfunctions/urutkanAbjad.js)
+- [Tukar Ukuran](https://adamfeb.github.io/hacktiv8/phase0/week4/builtinfunctions/tukarUkuran.js)
+- [Cek AB](https://adamfeb.github.io/hacktiv8/phase0/week4/builtinfunctions/cekAB.js)
+- [Change Me](https://adamfeb.github.io/hacktiv8/phase0/week4/objectliteral/changeMe.js)
+- [Shopping Time!](https://adamfeb.github.io/hacktiv8/phase0/week4/objectliteral/shoppingTime.js)
+- [Toko X](https://adamfeb.github.io/hacktiv8/phase0/week4/objectliteral/tokoX.js)
+- [Deep Sum](https://adamfeb.github.io/hacktiv8/phase0/week4/masteredarrayandobject/deepSum.js)
+- [Naik Angkot](https://adamfeb.github.io/hacktiv8/phase0/week4/masteredarrayandobject/naikAngkot.js)
+- [Highest Score](https://adamfeb.github.io/hacktiv8/phase0/week4/masteredarrayandobject/highestScore.js)
+- [Graduates](https://adamfeb.github.io/hacktiv8/phase0/week4/masteredarrayandobject/graduates.js)
+- [Exercise](https://github.com/adamfeb/hacktiv8/tree/master/phase0/week4/exercise)
 
 
 ## Short Story
