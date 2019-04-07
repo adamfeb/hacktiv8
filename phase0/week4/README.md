@@ -56,6 +56,7 @@ Hari pertama minggu keempat, Senin, akan dimulai dengan Live Coding, kali ini ad
 - [Object Literal](http://prep.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com/week-4/js-object-literal)
   - [JavaScript Objects on W3Schools](http://www.w3schools.com/js/js_objects.asp)
   - [Working with objects, on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- [Coding Challange Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)
 - [How daily vlogging has made me more productive and a better entrepreneur](https://meda.io/blog/startup/2016/05/20/how-daily-vlogging-has-made-me-more-productive-and-a-better-entrepreneur.html)
 
