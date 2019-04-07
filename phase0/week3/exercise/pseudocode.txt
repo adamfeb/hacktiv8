@@ -1,0 +1,85 @@
+
+STORE "students" with 40
+SET initial "count" to 0
+
+WHILE count < students
+  ADD 1 to "count"
+  WRITE "count"
+  DO "Check the Student's Nails" 
+    IF "Nails is Long" THEN
+      DO "Give a Punishment to the Student"
+    ELSE
+      DO "Give a Compliment to the Student"
+    ENDIF
+ENDWHILE
+
+
+
+
+
+READ AND STORE "arr" with user input
+READ AND STORE "money" with user input
+
+SET initial "flag" equals to false
+SET initial "distance" equals to -1
+SET initial "distanceLeft" equals to 0
+SET initial "i" equals to 0
+SET initial "j" equals to 0
+
+WHILE "i" less than length of "arr"
+  WHILE "j" less than length of "arr" number "i" 
+    
+    IF "arr" element number "j" in "arr" number "i" equals to 'o'
+      SET "flag" equals to NOT "flag"
+    ENDIF
+    IF "flag" equals to true 
+      IF "money" greater than 0
+        IF "arr" element number "j" in "arr" number "i" equals to 'x'
+          CALCULATE "money" substract by 10000
+          SET "money" with calculation result
+          ADD 1 to "distance"        
+        ELSE 
+          ADD 1 to "distanceLeft"
+        ENDIF
+      ENDIF
+    ENDIF
+    ADD 1 to "j"
+  ENDWHILE
+  ADD 1 to "i"
+ENDWHILE
+
+IF "money" greater than 0
+  SEND 'Sisa uang : ' + "money" value + ', jarak tempuh: ' + "distance" multiply by 10 + ' km' TO DISPLAY
+ELSE 
+  SEND 'Uang anda habis, jarak tersisa sampai tujuan adalah ' + "distanceLeft" multiply by 10 + ' km' TO DISPLAY
+ENDIFIF
+
+
+
+
+
+READ AND STORE "param" with user input
+
+IF "param" divide by 2 equals to 0
+  SEND "Invalid Input" TO DISPLAY
+ELSE
+  SET "result" equals to []
+  SET initial "i" equals to 1
+  SET initial "j" equals to 0
+  WHILE "i" less than or equals to rounded up of "param" divide by 2
+    SET "baris" equals to []
+    SET "stars" equals to 2 multiple by i minus 1
+    SET "space" equals to (param substract by stars)
+    WHILE "j" less than "param"
+      IF "j" more than "space" AND "j" less than or equals to stars plus space
+        INSERT '*' into "baris"
+      ELSE
+        INSERT ' ' into "baris"
+      ENDIF
+      ADD 1 to "j"
+    ENDWHILE
+    INSERT "baris" into "result"
+    ADD 1 to "i"
+  ENDWHILE
+  SEND "result" TO DISPLAY
+ENDIF
