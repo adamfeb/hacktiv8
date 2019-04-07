@@ -70,6 +70,8 @@ Instruktur yang akan mengajarkan materi selama minggu ketiga antara lain **Hary 
 
 ~ [Lee Iacocca](https://en.wikipedia.org/wiki/Lee_Iacocca)
 
+Update : **Aries Dimas Yudhistira** salah satu instruktur Hacktiv8 yang mengajar di dua minggu sebelumnya, memutuskan untuk resign. Hari terakhir saya bertemu dengan dia adalah Senin, saat Live Coding, saya duduk tepat disebelahnya, dan kemudian di pertemuan berikutnya, **Hary Dhimas Prakoso**, instruktur yang juga mengajar di kelas saya, memanggil seluruh peserta yang *buddy*-nya **Aries Dimas Yudhistira** untuk diberi penjelasan dan akan diberikan buddy baru setelah ada instruktur pengganti. Sementara *buddy* saya adalah **Hary Dhimas Prakoso**, masih menunggu hingga diberikan buddy baru. 
+
 
 ## References
 
