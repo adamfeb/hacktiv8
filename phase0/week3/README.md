@@ -40,6 +40,7 @@ Repository ini juga berguna sebagai dokumentasi dari apa yang telah saya pelajar
 - [Target Terdekat  (Auto)](https://adamfeb.github.io/hacktiv8/phase0/week3/morearray/targetTerdekat.js)
 - [Mengelompokkan Angka](https://adamfeb.github.io/hacktiv8/phase0/week3/multidimensionalarray/mengelompokkanAngka.js)
 - [Mengelompokkan Hewan](https://adamfeb.github.io/hacktiv8/phase0/week3/multidimensionalarray/mengelompokkanHewan.js)
+- [Exercise](https://github.com/adamfeb/hacktiv8/tree/master/phase0/week3/exercise)
 
 
 ## Short Story
